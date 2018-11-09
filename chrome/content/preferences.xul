@@ -28,7 +28,7 @@
               <checkbox id="id-zoteroscihub-automatic-pdf-download" preference="pref-zoteroscihub-automatic-pdf-download"/>
             </row>
             <row>
-              <label value="Scihub URL: (Note https only works with sci-hub.tw due to invalid SSL certs on mirrors)"/>
+              <label value="Scihub URL:"/>
               <textbox id="id-zoteroscihub-scihub-url" preference="pref-zoteroscihub-scihub-url"/>
             </row>
           </rows>
